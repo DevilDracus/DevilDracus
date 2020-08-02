@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 ![DevilDracus github stats](https://github-readme-stats.vercel.app/api?username=devildracus&?show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devildracus&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devildracus&layout=compact)-->
 - 🌱 I’m currently learning new things in C#, Python and Flutter.
 - 👯 I’m looking to collaborate on some projects, I am just really getting started with GitHub again.
 - 🔭 I’m currently working on Bots and automation or Websites.
