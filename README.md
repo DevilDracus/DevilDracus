@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and welcome! 👋
 ![DevilDracus github stats](https://github-readme-stats.vercel.app/api?username=devildracus&?show_icons=true&theme=radical&count_private=true)
 - 🌱 I’m currently learning new things in C#, Python and Flutter.
 - 👯 I’m looking to collaborate on some projects, I am just really getting started with GitHub again.
