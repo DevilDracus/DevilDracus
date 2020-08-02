@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![DevilDracus github stats](https://github-readme-stats.vercel.app/api?username=devildracus&?show_icons=true&theme=radical&count_private=true)(https://github-readme-stats.vercel.app/api?username=devildracus&?show_icons=true&theme=radical&count_private=true)
 <!--
 **DevilDracus/DevilDracus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
