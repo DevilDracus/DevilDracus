@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![DevilDracus github stats](https://github-readme-stats.vercel.app/api?username=devildracus&?show_icons=true&theme=radical&count_private=true)
+- 🌱 I’m currently learning new things in C#, Python and Flutter.
+- 👯 I’m looking to collaborate on some projects, I am just really getting started with GitHub again.
+- 🔭 I’m currently working on Bots and automation or Websites.
 <!--
 **DevilDracus/DevilDracus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
