@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 ![DevilDracus github stats](https://github-readme-stats.vercel.app/api?username=devildracus&?show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devildracus&layout=compact&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devildracus&layout=compact&hide=CSS,HTML)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devildracus&layout=compact)-->
 - 🌱 I’m currently learning new things in C# and Javascript, I'm also looking to learn rust and GO.
 - 👯 I’m looking to collaborate on some projects, I am just really getting started with GitHub again.
