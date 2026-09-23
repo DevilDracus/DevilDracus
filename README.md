@@ -1,5 +1,5 @@
 ### Hello and welcome! 👋
-![DevilDracus github stats](https://github-readme-stats.vercel.app/api?username=devildracus&?show_icons=true&theme=radical&count_private=true)
+![DevilDracus github stats](https://github-readme-streak-stats.herokuapp.com/?user=DevilDracus&?show_icons=true&theme=radical&count_private=true)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devildracus&theme=radical&hide=CSS,HTML)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devildracus&layout=compact)-->
 - 🌱 I’m currently learning new things in C#, I'm also looking to learn Rust and GO.
